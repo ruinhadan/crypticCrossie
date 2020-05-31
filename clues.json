@@ -1,4 +1,6 @@
-{
-{"clue":"Knock harbor with affinity(7)", "answer":"rapport","clue_type":"charade"}
-{"clue":"A daily’s article on religion(3, 5)", "answer":"the hindu","clue_type":"charade"}
+{"clues":
+ [
+  {"clue":"Knock harbor with affinity(7)", "answer":"rapport","clue_type":"charade"}
+  {"clue":"A daily’s article on religion(3, 5)", "answer":"the hindu","clue_type":"charade"}
+ ]
 }
