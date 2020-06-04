@@ -5,6 +5,8 @@
   {"clue":"A daily’s article on religion(3, 5)", "answer":"the hindu","clue_type":"charade"},
   {"clue":"Endless church with headless old women as caretakers(10)", "answer":"chaperones","clue_type":"deletion"},
   {"clue":"Sleuth, an Asian preserved mercy killing(10)","answer":"euthanasia","clue_type":"telescopic"},
-  {"clue":"Confused zebra with love has mass trapped in stomach(6)","answer":"bezoar","clue_type":"anagram"}
+  {"clue":"Confused zebra with love has mass trapped in stomach(6)","answer":"bezoar","clue_type":"anagram"},
+  {"clue":"Announce a competitor’s advent(7)","answer":"arrival","clue_type":"homophone"},
+  {"clue":"Short-lived trend of leading fashions and designs(3)","answer":"fad","clue_type":"acrostic"}
  ]
 }
