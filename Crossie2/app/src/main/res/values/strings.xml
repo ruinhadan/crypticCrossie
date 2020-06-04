@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Crossie</string>
+    <string name="app_title">Cryptic\nCrossword</string>
+    <string name="play_game">Start</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="welcome_text">Welcome, %s</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rules_heading">How to solve a cryptic crossword?</string>
+    <string name="crossie_rules">Crossie Rules</string>
+    <string name="how_to_play">How To Play?</string>
+    <string name="answer_hint">Enter your answer here</string>
+    <string name="check_answer">Check Answer</string>
+    <string name="rules_text">A typical clue consists of two parts, the <b>definition</b> and the <b>wordplay</b>. It provides two ways of getting to the answer.\n\n\tThe definition, which usually exactly matches the part of speech, tense, and number of the answer, is in essence the same as any \'straight\' crossword clue, a synonym for the answer.\nIt usually appears at the start or the end of a clue.
+\n\n\tThe other part (the subsidiary indication, or wordplay) provides an alternative route to the answer (this part would be a second definition in the case of double definition clues).\n\n\tOne of the tasks of the solver is to find the boundary between definition and wordplay and insert a mental pause there when reading the clue cryptically. This wordplay gives the solver some instructions on how to get to the answer another way.\n\n\tSometimes the two parts are joined with a link word or phrase such as \"from\", \"gives\" or \"could be\".</string>
+    <string name="how_to_play_text">Just press \'Start\'.\n\n\tYou\'ll be shown a clue, and buttons to navigate.\n\n\tType in your answer, without extra spaces or unnecessary characters and click on \'Check Answer\' to check if you\'re right.\n\n\tThe \'Hint\' button at the bottom of the screen can be used to find out the type of clue if you\'re stuck.\n\n\tAlso, each time you open the app, you\'ll be able to see only clues you haven\'t solved. The ones you\'ve solved won\'t be displayed.</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/mainFragment">
+
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.example.crossie.ui.main.MainFragment"
+        android:label="MainFragment"
+        tools:layout = "@layout/main_fragment">
+        <action
+            android:id="@+id/action_mainFragment_to_gameFragment"
+            app:destination="@id/gameFragment"
+            app:popUpToInclusive="false" >
+        </action>
+        <action
+            android:id="@+id/action_mainFragment_to_rulesFragment"
+            app:destination="@id/rulesFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_howToFragment"
+            app:destination="@id/howToFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/gameFragment"
+        android:name="com.example.crossie.game.GameFragment"
+        android:label="game_fragment"
+        tools:layout="@layout/game_fragment" />
+    <fragment
+        android:id="@+id/rulesFragment"
+        android:name="com.example.crossie.rules.RulesFragment"
+        android:label="fragment_rules"
+        tools:layout="@layout/fragment_rules" />
+    <fragment
+        android:id="@+id/howToFragment"
+        android:name="com.example.crossie.howtoplay.HowToFragment"
+        android:label="fragment_how_to"
+        tools:layout="@layout/fragment_how_to" />
+</navigation>
