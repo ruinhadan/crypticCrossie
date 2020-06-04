@@ -2,6 +2,8 @@
  "clues":
  [
   {"clue":"Knock harbor with affinity(7)", "answer":"rapport","clue_type":"charade"},
-  {"clue":"A daily’s article on religion(3, 5)", "answer":"the hindu","clue_type":"charade"}
+  {"clue":"A daily’s article on religion(3, 5)", "answer":"the hindu","clue_type":"charade"},
+  {"clue":"Endless church with headless old women as caretakers(10)", "answer":"chaperones","clue_type":"deletion"},
+  {"clue":"Sleuth, an Asian preserved mercy killing(10)","answer":"euthanasia","clue_type":"telescopic"}
  ]
 }
